@@ -11,7 +11,7 @@ Este é um projeto do jogo Pong feito no Javascript, durante os cursos da Alura.
 </p> 
 
 **Projeto original**:
-![](./imgs-gifs-readme/pong-javascript-og.png)
+![](./imgs-gifs-readme/pong-javascript-og.gif)
 
 **Projeto depois das modificações e correções de bugs**:
 ![](./imgs-gifs-readme/pong-javascript.gif)
