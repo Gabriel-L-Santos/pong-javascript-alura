@@ -1,9 +1,9 @@
 # pong-javascript-alura
  
  ## CPU
- 
-<iframe src="https://editor.p5js.org/Gabriel_Leme/full/IY40Hw_f6"></iframe>
+
+https://editor.p5js.org/Gabriel_Leme/full/IY40Hw_f6
 
 ## Multiplayer
 
-<iframe src="https://editor.p5js.org/Gabriel_Leme/full/4UChbRbst"></iframe>
+https://editor.p5js.org/Gabriel_Leme/full/4UChbRbst
