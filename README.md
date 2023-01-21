@@ -25,7 +25,7 @@ Este é um projeto do jogo Pong feito no Javascript, durante os cursos da Alura.
 
 ## Meu processo de Desenvolvimento
 
-Peguei o projeto original do curso e fiz modificações pessoais, adicionei plano de fundo e trilha sonora com a temática retrô, mudei as cores das raquetes e dos placares para azul e vermelho, respectivamente, além de correções de bugs como:
+Peguei o projeto original do curso e fiz modificações pessoais, adicionei plano de fundo e trilha sonora com a temática retrô, mudei as cores das raquetes e dos placares para azul e vermelho, respectivamente, inseri um texto logo abaixo do jogo com as instruções de como jogar, além de correções de bugs como:
 
 - **Quando a raquete passa da tela**: depois das minhas correções, a raquete não passa mais da borda, quando a raquete vai pra borda de cima ou de baixo, ela é bloqueada pra além da borda;
 
@@ -39,7 +39,7 @@ Peguei o projeto original do curso e fiz modificações pessoais, adicionei plan
 
 **Modo Multiplayer (2 jogadores)**: o player 1 usa as teclas W/S para mover a raquete, e o player 2 usa as setas para cima e para baixo (↑/↓) para mover a raquete.
 
-### Recursos Usados
+## Recursos Usados
 
 - [P5.js](https://p5js.org/) - foi o site que utilizei para desenvolver o jogo.
 
