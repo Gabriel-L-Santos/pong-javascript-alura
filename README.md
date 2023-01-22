@@ -37,6 +37,8 @@ Peguei o projeto original do curso e fiz modificações pessoais, adicionei plan
 
 ## Tutorial
 
+**Importante!**: para jogar, clique com o botão esquerdo do mouse em cima da tela do jogo.
+
 **Modo CPU (1 jogador)**: mover ↑/↓ (setas para cima e para baixo) para mover a raquete;
 
 **Modo Multiplayer (2 jogadores)**: o player 1 usa as teclas W/S para mover a raquete, e o player 2 usa as setas para cima e para baixo (↑/↓) para mover a raquete.
